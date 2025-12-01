@@ -1,1 +1,3 @@
-line-bot-sdkfeedparserrequests
+line-bot-sdk
+feedparser
+requests
